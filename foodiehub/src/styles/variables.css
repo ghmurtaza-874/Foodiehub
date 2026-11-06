@@ -1,0 +1,27 @@
+:root {
+  /* Brand palette */
+  --fh-primary: #ff6b35;
+  --fh-primary-dark: #f4511e;
+  --fh-cream: #fff9f1;
+  --fh-charcoal: #242424;
+  --fh-gray: #f3f4f6;
+  --fh-white: #ffffff;
+  --fh-accent: #ffc857;
+  --fh-success: #16a34a;
+  --fh-error: #dc2626;
+  --fh-text: #242424;
+  --fh-text-muted: #6b7280;
+  --fh-border: #e5e7eb;
+  --fh-shadow-sm: 0 1px 3px rgba(36, 36, 36, 0.08);
+  --fh-shadow: 0 6px 20px rgba(36, 36, 36, 0.08);
+  --fh-shadow-lg: 0 18px 40px rgba(36, 36, 36, 0.12);
+  --fh-radius-sm: 10px;
+  --fh-radius: 16px;
+  --fh-radius-lg: 24px;
+  --fh-gradient: linear-gradient(135deg, #ff6b35 0%, #f4511e 100%);
+  --fh-gradient-soft: linear-gradient(135deg, #fff9f1 0%, #ffeede 100%);
+  --fh-gradient-warm: linear-gradient(135deg, #ffc857 0%, #ff6b35 100%);
+  --fh-font-heading: 'Poppins', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --fh-font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --fh-header-height: 76px;
+}
